@@ -3,3 +3,4 @@ lib*
 *.pdf
 venv/*
 bin/*
+share/*
